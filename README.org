@@ -1,0 +1,37 @@
+#+TITLE: CMake Files Api Client for Vim
+
+A Files API client for Vim and Neovim.
+
+* Introduction
+
+Vector-of-bool's Cmake tools plugin for Visual Studio Code is a very good
+piece of software which integrates really well CMake's understanding of
+a codebase into the editor.
+
+This plugin stub will try to set correctly a client for the coming CMake
+file api in Vim so it can access these informations more easily
+
+* Requirements
+
+- Cmake 3.14 for its
+  [[https://gitlab.kitware.com/cmake/cmake/blob/master/Help/manual/cmake-file-api.7.rst][new
+  file API]]
+- Vim 8 / Neovim 0.3
+
+* Stateful Queries
+
+** TODO Write files in the correct folder
+** TODO Create the folder
+** TODO Choose the build directory
+** TODO Handle update events
+** TODO Write JSON files from dictionaries
+
+* Reply files
+
+** TODO Read JSON files into dictionaries
+** TODO Sort the data in a sorting that 'makes sense'
+
+* Interface with other tools
+
+** TODO List candidates interested in the information
+** TODO Find the format for output data
