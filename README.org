@@ -1,5 +1,11 @@
 #+TITLE: CMake Files Api Client for Vim
 
+* NOT DONE AT ALL
+
+Do not use it, there's nothing inside.
+
+
+
 A Files API client for Vim and Neovim.
 
 * Introduction
