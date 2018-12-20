@@ -6,7 +6,8 @@ Do not use it, there's nothing inside.
 
 
 
-A Files API client for Vim and Neovim.
+A Files API client for Vim and Neovim, following this
+[[https://gitlab.kitware.com/cmake/cmake/blob/master/Help/manual/cmake-file-api.7.rst][reference]]
 
 * Introduction
 
